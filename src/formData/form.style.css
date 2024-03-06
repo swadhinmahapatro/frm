@@ -1,0 +1,11 @@
+.formDaataOuter{
+    
+    display: flex;
+    flex-direction: column;
+    width: 40vw;
+    justify-content: center;
+    gap:20px
+};
+.labelField{
+    margin-bottom: 6px;
+}
